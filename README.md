@@ -14,7 +14,9 @@ A new Flutter project.
 - `flutter pub get`
 - `flutter run`
 
-<img src="./assets/ss1.png" alt="ss1" width="200"/>
-<img src="./assets/ss2.png" alt="ss2" width="200"/>
-<img src="./assets/ss3.png" alt="ss3" width="200"/>
-<img src="./assets/ss4.png" alt="ss4" width="200"/>
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="./assets/ss1.png" alt="ss1" width="200"/>
+  <img src="./assets/ss2.png" alt="ss2" width="200"/>
+  <img src="./assets/ss3.png" alt="ss3" width="200"/>
+  <img src="./assets/ss4.png" alt="ss4" width="200"/>
+</div>
